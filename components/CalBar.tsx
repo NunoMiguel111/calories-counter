@@ -3,7 +3,7 @@ import BarMacro from "./BarMacro"
 
 export default function CalBar() {
     return (
-        <header className="flex w-full justify-between bg-cal-bar h-[100px] p-2 text-white ">
+        <header className="flex w-full justify-between bg-cal-bar h-[80px] p-2 text-white ">
             <div className="flex">
                 <Image src="/images/user.svg" alt="profile pic" width="60" height="60" />
                 <p>Name</p>

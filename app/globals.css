@@ -2,10 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
+:root {
   --cal-bar-color: #08864a;
   --primary-color: #E8C364;
   --item-color: #e6e6e6;
-  --text-black: rgba(0,0,0,0.8);
+  --text-black: rgba(36, 33, 33, 0.8);
   --background-color: #edefe9;
 }
+
+html,
+body {
+  color: rgba(0, 0, 0, 0.7);
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+
+
+}
+

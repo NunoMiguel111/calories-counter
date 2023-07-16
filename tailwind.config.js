@@ -15,7 +15,8 @@ module.exports = {
       backgroundColor: {
         'cal-bar': 'var(--cal-bar-color)',
         'primary-color': 'var(--primary-color)',
-        'background-color': 'var(--background-color)'
+        'background-color': 'var(--background-color)',
+        'item-color': 'var(--item-color)'
       }
     },
   },
