@@ -16,7 +16,9 @@ module.exports = {
         'cal-bar': 'var(--cal-bar-color)',
         'primary-color': 'var(--primary-color)',
         'background-color': 'var(--background-color)',
-        'item-color': 'var(--item-color)'
+        'item-color': 'var(--item-color)',
+        'form-color': 'var(--form-color)',
+        'linear-grad': 'var(--button-gradient)'
       }
     },
   },
